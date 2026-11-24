@@ -1,16 +1,6 @@
 {
   "events": [
     {
-      "start": 1795528800,
-      "end": 1795532400,
-      "date": "11/24 23:00",
-      "today_time": "23:00",
-      "day": "2026-11-24",
-      "performer": "TestSinger",
-      "content": "弾き語り",
-      "stage": "SporLightTalksLiveHouse"
-    },
-    {
       "start": 1795608000,
       "end": 1795611600,
       "date": "11/25 21:00",
@@ -19,16 +9,6 @@
       "performer": "テスト演奏者２",
       "content": "アコースティックライブ",
       "stage": "Stage 02"
-    },
-    {
-      "start": 1795692600,
-      "end": 1795694400,
-      "date": "11/26 20:30",
-      "today_time": "20:30",
-      "day": "2026-11-26",
-      "performer": "TestRockBand",
-      "content": "4ピースバンド",
-      "stage": "駅前の予定"
     }
   ]
 }
