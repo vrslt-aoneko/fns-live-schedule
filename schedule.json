@@ -1,3 +1,14 @@
 {
-  "events": []
+  "events": [
+    {
+      "start": 1795877940,
+      "end": 1795888740,
+      "date": "11/28 23:59",
+      "today_time": "23:59",
+      "day": "2026-11-28",
+      "performer": "OpenMicBarEvent",
+      "content": "オープンマイク雑談イベント",
+      "stage": "SpotLightTalksBarShop"
+    }
+  ]
 }
