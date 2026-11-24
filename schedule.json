@@ -1,6 +1,16 @@
 {
   "events": [
     {
+      "start": 1795528800,
+      "end": 1795532400,
+      "date": "11/24 23:00",
+      "today_time": "23:00",
+      "day": "2026-11-24",
+      "performer": "AONEKO",
+      "content": "弾き語り",
+      "stage": "SporLightTalksLiveHouse"
+    },
+    {
       "start": 1795608000,
       "end": 1795611600,
       "date": "11/25 21:00",
